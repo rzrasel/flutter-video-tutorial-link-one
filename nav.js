@@ -1,6 +1,3 @@
-/*
-Flutter video tutorial link one
-*/
 const toggle = document.querySelector(".toggle");
 const menu = document.querySelector(".menu");
 const items = document.querySelectorAll(".item");
@@ -45,6 +42,3 @@ for (let item of items) {
     item.addEventListener("keypress", toggleItem, false);
 }
 document.addEventListener("click", closeSubmenu, false);
-/*
-Flutter video tutorial link one
-*/

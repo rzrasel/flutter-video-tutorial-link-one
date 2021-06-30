@@ -6,9 +6,6 @@ Flutter video tutorial link one
 /* Basic styling */
 
 * {
-    /*background-color: #22272e;
-    color: #adbac7;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;*/
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -18,7 +15,6 @@ body {
     /* font-family: sans-serif;
     font-size: 16px; */
     background-color: #22272e;
-    color: #adbac7;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
     line-height: 1.5;
@@ -265,14 +261,8 @@ img {
 Flutter video tutorial link one
 */
 
-
-/*
 .box-body {
-    color: #adbac7;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     background-color: #22272e;
     border: 1px solid #444c56;
     border-radius: 6px;
-    width: 768px;
-    margin: auto;
-}*/
+}

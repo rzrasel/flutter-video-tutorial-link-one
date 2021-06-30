@@ -1,6 +1,8 @@
 /*
 Flutter video tutorial link one
 */
+
+
 /* Basic styling */
 
 * {
@@ -254,6 +256,13 @@ img {
     vertical-align: middle!important;
 }
 
+
 /*
 Flutter video tutorial link one
 */
+
+.box-body {
+    background-color: #22272e;
+    border: 1px solid #444c56;
+    border-radius: 6px;
+}

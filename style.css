@@ -266,6 +266,6 @@ Flutter video tutorial link one
     border: 1px solid #444c56;
     color: #adbac7;
     border-radius: 6px;
-    width: 768px;
+    max-width: 768px;
     margin: 35px auto 35px auto;
 }

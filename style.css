@@ -276,3 +276,15 @@ Flutter video tutorial link one
     padding-bottom: .3em;
     font-size: 2em;
 }
+
+.markdown-body blockquote,
+.markdown-body details,
+.markdown-body dl,
+.markdown-body ol,
+.markdown-body p,
+.markdown-body pre,
+.markdown-body table,
+.markdown-body ul {
+    margin-bottom: 16px;
+    margin-top: 0;
+}

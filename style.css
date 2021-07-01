@@ -301,7 +301,7 @@ Flutter video tutorial link one
 
 .video-row {
     display: table;
-    width: 150px;
+    width: 210px;
     /*Optional*/
     table-layout: fixed;
     /*Optional*/
@@ -315,8 +315,17 @@ Flutter video tutorial link one
     /*background-color: red;*/
     /*Optional*/
     border-right: 1px solid #444c56;
+    font-size: 12px;
 }
 
 .video-column:last-child {
     border-right: 1px solid #00000000;
+}
+
+.video-column a {
+    color: #798636;
+}
+
+.video-column a:hover {
+    color: #ACBD53;
 }

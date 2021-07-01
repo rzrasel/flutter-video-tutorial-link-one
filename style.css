@@ -296,7 +296,7 @@ Flutter video tutorial link one
 .video-title {
     display: flex;
     flex-direction: row;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .video-row {

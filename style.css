@@ -288,3 +288,34 @@ Flutter video tutorial link one
     margin-bottom: 16px;
     margin-top: 0;
 }
+
+.video-list {
+    list-style: none;
+}
+
+.video-title {
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+}
+
+.video-row {
+    display: table;
+    width: 150px;
+    /*Optional*/
+    table-layout: fixed;
+    /*Optional*/
+    border-spacing: 10px;
+    /*Optional*/
+}
+
+.video-column {
+    display: table-cell;
+    /*background-color: red;*/
+    /*Optional*/
+    border-right: 1px solid #444c56;
+}
+
+.video-column:last-child {
+    border-right: 1px solid #00000000;
+}

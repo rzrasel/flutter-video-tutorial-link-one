@@ -307,6 +307,7 @@ Flutter video tutorial link one
     /*Optional*/
     border-spacing: 10px;
     /*Optional*/
+    float: right;
 }
 
 .video-column {

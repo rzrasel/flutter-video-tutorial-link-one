@@ -270,3 +270,8 @@ Flutter video tutorial link one
     margin: 35px auto 35px auto;
     padding: 24px;
 }
+
+.markdown-body h2 {
+    border-bottom: 1px solid var(--color-border-secondary);
+    padding-bottom: .3em;
+}

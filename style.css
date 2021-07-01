@@ -274,4 +274,5 @@ Flutter video tutorial link one
 .markdown-body h2 {
     border-bottom: 1px solid var(--color-border-secondary);
     padding-bottom: .3em;
+    font-size: 2em;
 }

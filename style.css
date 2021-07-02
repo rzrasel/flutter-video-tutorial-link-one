@@ -301,7 +301,12 @@ Flutter video tutorial link one
     margin: 0px;
     padding: 0px;
     display: block;
-    min-height: 58px;
+    min-height: 64px;
+    border-bottom: 1px solid #444c56;
+}
+
+.video-list li:last-child {
+    border-bottom: 0px solid #00000000;
 }
 
 .video-title {
@@ -330,7 +335,7 @@ Flutter video tutorial link one
 }
 
 .video-column:last-child {
-    border-right: 1px solid #00000000;
+    border-right: 0px solid #00000000;
 }
 
 .video-column a {

@@ -346,6 +346,10 @@ Flutter video tutorial link one
     color: #ACBD53;
 }
 
+.clear-both {
+    clear: both;
+}
+
 .social-icons {
     display: flex;
 }

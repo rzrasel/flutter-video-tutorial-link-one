@@ -1,4 +1,4 @@
-# flutter-video-tutorial-link-one
-Flutter video tutorial link one
+# flutter-video-tutorial-link-one-codebase
+Flutter video tutorial link one codebase
 
 [Flutter video tutorial link one](https://rzrasel.github.io/flutter-video-tutorial-link-one/)

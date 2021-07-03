@@ -15,5 +15,3 @@ git commit -m "Add Readme & Git Commit File"
 git pull
 git push --all
 ```
-
-[Social Icon](https://dev.to/monalishamondol/social-media-buttons-with-hover-effect-using-html-css-25p7)

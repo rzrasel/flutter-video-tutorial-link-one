@@ -360,14 +360,13 @@ Flutter video tutorial link one
 
 .tutorial-list li {
     margin: 0px;
-    padding: 0px;
+    padding: 10px 0px;
     display: block;
-    min-height: 72px;
     border-bottom: 1px solid #444c56;
 }
 
 .tutorial-list li:last-child {
-    border-right: 0px solid #00000000;
+    border-bottom: 0px solid #00000000;
 }
 
 .tutorial-list li a {

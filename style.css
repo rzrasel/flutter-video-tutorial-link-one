@@ -366,6 +366,10 @@ Flutter video tutorial link one
     border-bottom: 1px solid #444c56;
 }
 
+.tutorial-list li:last-child {
+    border-right: 0px solid #00000000;
+}
+
 .tutorial-list li a {
     color: #539bf5;
 }

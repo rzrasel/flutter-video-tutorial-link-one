@@ -271,8 +271,12 @@ Flutter video tutorial link one
     padding: 24px;
 }
 
+.markdown-body .header-title {
+    cursor: default;
+}
+
 .markdown-body h2 {
-    border-bottom: 1px solid var(--color-border-secondary);
+    border-bottom: 1px solid #373e47;
     padding-bottom: .3em;
     font-size: 2em;
 }

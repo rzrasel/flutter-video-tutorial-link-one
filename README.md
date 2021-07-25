@@ -40,3 +40,11 @@ Your repository should now be below the size limit.
 -- git reflog expire --expire=now --all
 -- git gc --prune=now
 ```
+
+Navigate to your repository:
+```
+cd my_repository/
+git checkout Flutter-Tutorial-Navigate-To-Another-Screen-One
+git filter-branch --force --tree-filter 'rm -f path/to/big_file.mpg' HEAD
+git reflog expire --expire=now --all && git gc --prune=now --aggressive
+git 
